@@ -137,9 +137,6 @@ requirements.txt
   tokenizer indices depend on it.
 - Built and tested on Windows / CPU; PaddlePaddle and NumPy versions are pinned for compatibility.
 
----
-
-## 📄 License
 
 
 
